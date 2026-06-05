@@ -33,8 +33,8 @@ The site is built as a single, cohesive React component using Tailwind CSS for r
 * **Frontend Framework:** React
 * **Styling:** Tailwind CSS
 * **Hosting:** Designed for static hosting (Vercel, Netlify, GitHub Pages, etc.)
-* **Contact Routing:** * WhatsApp: `https://wa.me/918208510630`
-    * Phone: `tel:+918208510630`
+* **Contact Routing:** * WhatsApp: `https://wa.me/********`
+    * Phone: `tel:+91*********`
 * **Maps Integration:** Google Maps embedded iframe targeting the Apollo Bandar, Colaba location.
 
 ---
